@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T16:15:43.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gIkWK8awmqW91X81tb9S" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T19:23:13.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="43sxX6HUXjZsAQOiM88x" version="22.1.19" type="github">
   <diagram name="Page-1" id="-kSXYxPSNdlGJXKzqjai">
     <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,14 @@
         <mxCell id="kqHvdpa6unui2aYF5rqx-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kqHvdpa6unui2aYF5rqx-11" target="kqHvdpa6unui2aYF5rqx-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kqHvdpa6unui2aYF5rqx-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kqHvdpa6unui2aYF5rqx-11" target="kqHvdpa6unui2aYF5rqx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqHvdpa6unui2aYF5rqx-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqHvdpa6unui2aYF5rqx-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kqHvdpa6unui2aYF5rqx-11" value="Joeur&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="740" width="30" height="60" as="geometry" />
         </mxCell>
@@ -34,7 +42,7 @@
           <mxGeometry x="190" y="620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqHvdpa6unui2aYF5rqx-24" value="Jouer au Quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="650" width="100" height="30" as="geometry" />
+          <mxGeometry x="310" y="720" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kqHvdpa6unui2aYF5rqx-41" value="include" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqHvdpa6unui2aYF5rqx-25" target="kqHvdpa6unui2aYF5rqx-19">
           <mxGeometry relative="1" as="geometry" />
@@ -50,9 +58,6 @@
         </mxCell>
         <mxCell id="kqHvdpa6unui2aYF5rqx-30" value="Voir sa&lt;br&gt;&amp;nbsp;performance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="760" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kqHvdpa6unui2aYF5rqx-32" value="Veiller a l&#39;application des regles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="610" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqHvdpa6unui2aYF5rqx-33" value="Voir ses résultats" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="810" width="100" height="40" as="geometry" />
