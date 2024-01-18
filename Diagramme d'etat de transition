@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T14:37:25.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9n56SWZOESfeZon8tiWq" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T14:37:44.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hl0YpvCUkuFX5ScW8GL6" version="22.1.21" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1194" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="400" y="19.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qcsTa5afoOU_Y0sWRDd1-11" value="debut du scenario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qcsTa5afoOU_Y0sWRDd1-10">
+        <mxCell id="qcsTa5afoOU_Y0sWRDd1-11" value="debut du scenario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#363CFF;" vertex="1" connectable="0" parent="qcsTa5afoOU_Y0sWRDd1-10">
           <mxGeometry x="0.0211" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
